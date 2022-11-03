@@ -4,7 +4,7 @@ import React from 'react';
 import './BennerOne.css'
 const BennerOne = () => {
  return (
-  <div className='main-benner '>
+  <div className='main-benner'>
    <div className='benner'>
     <div className='benner-text text-center'>
      <h1> Welcome To</h1>
