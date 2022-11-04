@@ -1,0 +1,72 @@
+.about-main-dev {
+ 
+ display: flex;
+ margin-top: 10px;
+ justify-content:center;
+ align-items:center;
+ margin-top: 100px;
+}
+
+
+.about-main-dev .about-card .about-img-dev{
+width: 100%;
+}
+
+.about-main-dev .about-card .about-img-dev img {
+ width: 100%;
+}
+
+/* .about-main-dev .about-card .content-dev{
+width: 100%;
+} */
+
+.about-main-dev .about-card .content-dev h1  {
+ font-size: 4.8rem;
+ margin-bottom:10px ;
+ 
+}
+.about-main-dev .about-card .content-dev p  {
+ font-size: 1.5rem;
+ color: grey;
+ margin-bottom:30px 
+}
+.about-main-dev .about-card .content-dev h5  {
+ font-size: 1.8rem;
+ color: coral;
+ margin-bottom:10px 
+
+}
+
+.about-main-dev .about-card .content-dev .specials-div{
+display: flex;
+
+}
+.about-main-dev .about-card .content-dev .specials-div img{
+ width: 80px;
+ height: 80px;
+}
+
+.about-main-dev .about-card .content-dev .specials-div .specials-div-content{
+ display: flex;
+}
+
+
+
+.about-main-dev .about-card .content-dev ul li{
+ font-size: 1.5rem;
+ margin-top:30px 
+}
+.about-main-dev .about-card .content-dev ul {
+ 
+ margin-top:30px 
+}
+.about-main-dev .about-card .content-dev button {
+ padding: 20px 50px;
+background: #000;
+margin-top: 15px;
+border: 1px solid white;
+text-decoration: none;
+font-size: 20px;
+font-weight: 400;
+color: #fff;
+}

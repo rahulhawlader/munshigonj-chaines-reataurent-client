@@ -1,13 +1,14 @@
 import React from 'react';
-import { Button } from 'react-bootstrap';
+
 import { Link } from 'react-router-dom';
 import './FoodSection.css'
 
 const FoodSection = () => {
  return (
-  <div className='container main-section '>
-   <h1 className='text-center text-white mb-5'> Our All Food Items </h1>
-   <div className='row justify-content-center'>
+  <div className='main-section '>
+   <h3 className='text-center text-white'>Selected Menu</h3>
+   <h1 className='text-center text-white mb-5'> Our Specialties </h1>
+   <div className='row justify-content-center '>
     <div className='card-main col-12 col-md-6 col-lg-4'>
     <div className='box'>
      <div className='content text-white'>
@@ -43,7 +44,7 @@ const FoodSection = () => {
     
     
     
-    <div className='card-main col-12 col-md-6 col-lg-6 '>
+    <div className='card-main col-12 col-md-6 col-lg-4 '>
     <div className='box'>
      <div className='content text-white'>
      <h1> 03</h1>

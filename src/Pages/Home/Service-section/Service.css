@@ -1,0 +1,27 @@
+.service-main-dev{
+ background: rgba(0, 0, 0, 0.633);
+ margin-top: 100px;
+ display: flex;
+ justify-content: end;
+ align-items: center;
+}
+
+.service-main-dev .servces-img-dev{
+ width: 400px;
+ height: 400px;
+}
+.service-main-dev .servces-img-dev img{
+ width: 400px;
+ height: 350px;
+}
+
+.service-main-dev   .servces-containet h5 {
+ font-size: 1.8rem;
+ color: coral;
+ margin-bottom:10px 
+}
+.service-main-dev   .servces-containet h1 {
+ font-size: 4.8rem;
+ color: white;
+
+}
