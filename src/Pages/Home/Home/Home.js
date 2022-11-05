@@ -1,6 +1,7 @@
 import React from 'react';
 import About from '../About/About';
 import BennerOne from '../Benner/BennerOne';
+import Blogs from '../Blogs/Blogs';
 import Booking from '../Booking/Booking';
 import BookingForm from '../BookingForm/BookingForm';
 
@@ -16,19 +17,16 @@ const Home = () => {
   <div>
    
    <BennerOne/>
-   
-   <Booking/>
+    <Booking/>
     <About/>
      <Service/>
-    
-     <FoodSection/>
+    <FoodSection/>
    <BookingForm/>
-   
    <OurTeam/>
-   
    <MenuAllItems/>
    <Review/>
    <Location/>
+   <Blogs/>
    
    
    
