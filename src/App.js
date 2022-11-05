@@ -4,6 +4,7 @@ import Bangalifood from './Pages/Home/FoodSection/BangaliFood/Bangalifood';
 import Chaines from './Pages/Home/FoodSection/ChainesFood/Chaines';
 import ThaiFood from './Pages/Home/FoodSection/ThaiFood/ThaiFood';
 import Home from './Pages/Home/Home/Home';
+import Footer from './Pages/Shared/Footer/Footer';
 import Navber from './Pages/Shared/Navber/Navber';
 
 
@@ -19,7 +20,9 @@ function App() {
         <Route path='/thai' element={<ThaiFood/>}></Route>
         <Route path='/chaines' element={<Chaines/>}></Route>
       </Routes>
+     
     }
+     <Footer/>
     </div>
   );
 }
