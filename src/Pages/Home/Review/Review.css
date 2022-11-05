@@ -1,0 +1,149 @@
+.review-main-dev{
+ margin-top: 200px;
+ display: flex;
+ justify-content:space-between;
+ flex-wrap: wrap;
+ 
+ /* position: relative; */
+ 
+}
+
+.review-main-dev .reviews-img-dev{
+ width: 500px;
+ height: 500px;
+ 
+ 
+}
+.review-main-dev .reviews-img-dev img{
+ width: 100%;
+ height: 100%;
+ /* position: absolute; */
+}
+.review-main-dev .reviews-content-dev {
+ margin-right: 20px;
+
+ 
+}
+.review-main-dev .reviews-content-dev h1 {
+font-size: 5rem;
+color: white;
+
+}
+.review-main-dev .reviews-content-dev h5 {
+ font-size: 2rem;
+ color: rgba(255, 144, 80, 0.807);
+
+}
+
+.review-card-main .review-card .review-details-dev img{
+ width: 50px;
+ height: 50px;
+ margin-right: 10px;
+}
+.review-card-main .review-card .review-details-dev  {
+display: flex;
+
+align-items: center;
+}
+.review-card-main .review-card .review-details-dev h2  {
+font-size: 2rem;
+}
+
+.review-card-main .review-card  .review-star-dev{
+ color: yellow;
+ font-size: 2rem;
+}
+.review-card-main .review-card  p{
+ 
+ font-size: 1.5rem;
+}
+/* .row .review-card  {
+border-left: 1px solid white;
+
+} */
+/* .review-card-main .border-dev{
+ border: 1px solid white;
+ 
+} */
+
+.review-card-main{
+position: relative;
+
+
+ bottom: 350px;
+ width: 100%;
+ height: 300px;
+ background: black;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ color: white;
+ margin-left: 10px;
+}
+
+
+
+
+
+
+@media (max-width:992px) {
+ .review-main-dev .reviews-img-dev img{
+width: 100%;
+align-items: center;
+ 
+ }
+
+ .review-main-dev .reviews-content-dev h1 {
+  font-size: 3rem;
+  color: white;
+  
+  }
+  .review-main-dev{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+ 
+
+  .review-main-dev .reviews-content-dev{
+   text-align: center;
+  }
+  /* .review-main-dev{
+   
+   flex-wrap: wrap;
+  } */
+ 
+}
+@media (max-width:540px) {
+ .review-main-dev .reviews-img-dev img{
+ 
+  display: none;
+ }
+
+ .review-main-dev .reviews-content-dev h1 {
+  font-size: 2rem;
+  color: white;
+  
+  }
+  .review-main-dev{
+   
+   flex-wrap: wrap-reverse;
+  }
+  .review-main-dev .reviews-content-dev{
+   text-align: center;
+  
+  }
+
+  .review-main-dev{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* margin-right: 100px; */
+  }
+
+  .review-card-main .review-card {
+  margin-left: 30px;
+  margin-top: 30px;
+  }
+ 
+}

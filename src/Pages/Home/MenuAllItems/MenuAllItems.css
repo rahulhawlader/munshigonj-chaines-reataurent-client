@@ -1,0 +1,32 @@
+.main-menu-items{
+ margin-top: 150px;
+ 
+}
+
+.menu-main-items .menu-card h1{
+ font-size: 5rem;
+ color: coral;
+}
+.menu-main-items .menu-card h4{
+ font-size: 2rem;
+ 
+}
+
+.menu-main-items{
+ margin-top: 100px;
+ margin-bottom: 100px;
+}
+
+.menu-main-items .menu-card{
+ border-right: 1px solid gray;
+ margin-top: 50px;
+}
+
+
+@media (max-width:992px) {
+ .menu-main-items .menu-card{
+  border-right: none;
+  margin-top: 30px;
+ }
+ 
+}
