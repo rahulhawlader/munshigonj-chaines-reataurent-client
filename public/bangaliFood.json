@@ -1,0 +1,356 @@
+[
+{
+ "image":"https://i.ibb.co/r6Xy48q/download-1.jpg",
+ "_id":1,
+ "name": "bangla Food 1",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/SJpVSCL/download-2.jpg",
+ "_id":2,
+ "name": "bangla Food 2",
+ "price": 90,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/G2658Tw/download-3.jpg",
+ "_id":3,
+ "name": "bangla Food 3",
+ "price": 95,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/m623fBj/download-4.jpg",
+ "_id":4,
+ "name": "bangla Food 4",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/nPTX2RY/download-5.jpg",
+ "_id":5,
+ "name": "bangla Food 5",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/pdnJCNT/download-6.jpg",
+ "_id":6,
+ "name": "bangla Food 6",
+ "price": 70,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/SK0F7Cs/download-7.jpg",
+ "_id":7,
+ "name": "bangla Food 7",
+ "price": 45,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/QCbtbR2/download-8.jpg",
+ "_id":8,
+ "name": "bangla Food 8",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/X3cXH45/download-9.jpg",
+ "_id":9,
+ "name": "bangla Food 9",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/xFLPLqh/download-10.jpg",
+ "_id":10,
+ "name": "bangla Food 10",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/0ZkbZMb/download-11.jpg",
+ "_id":11,
+ "name": "bangla Food 11",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/qF82xt1/download-12.jpg",
+ "_id":12,
+ "name": "bangla Food 12",
+ "price": 90,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/dWqcyS0/download-13.jpg",
+ "_id":13,
+ "name": "bangla Food 13",
+ "price": 95,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/CHcHqmn/download-14.jpg",
+ "_id":14,
+ "name": "bangla Food 14",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/pdfrkBg/download-15.jpg",
+ "_id":15,
+ "name": "bangla Food 15",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/bgypwBr/download-16.jpg",
+ "_id":16,
+ "name": "bangla Food 16",
+ "price": 70,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/xf25t1R/download-17.jpg",
+ "_id":17,
+ "name": "bangla Food 17",
+ "price": 45,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/WxJwgt6/download-18.jpg",
+ "_id":18,
+ "name": "bangla Food 18",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/LY1M5Nz/download-19.jpg",
+ "_id":19,
+ "name": "bangla Food 19",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/Wcq00XK/download-20.jpg",
+ "_id":20,
+ "name": "bangla Food 20",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/18Z1nGh/download.jpg",
+ "_id":21,
+ "name": "bangla Food 21",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/xXqMZhm/images-1.jpg",
+ "_id":22,
+ "name": "bangla Food 22",
+ "price": 90,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/pw5Z0rr/images-2.jpg",
+ "_id":23,
+ "name": "bangla Food 23",
+ "price": 95,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/vQxyF0Z/images-3.jpg",
+ "_id":24,
+ "name": "bangla Food 24",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/qkx0wzY/images-4.jpg",
+ "_id": 25,
+ "name": "bangla Food 25",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/LNsHDM4/images-5.jpg",
+ "_id": 26,
+ "name": "bangla Food 26",
+ "price": 70,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/Hr6tLCz/images-6.jpg",
+ "_id": 27,
+ "name": "bangla Food  27",
+ "price": 45,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/3FRFDXz/images-7.jpg",
+ "_id": 28,
+ "name": "bangla Food  28",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/WgD7gt5/images-8.jpg",
+ "_id": 29,
+ "name": "bangla Food 29",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/VTTc37t/images-9.jpg",
+ "_id":30,
+ "name": "bangla Food 30",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/wJ0b6LM/images-10.jpg",
+ "_id":31,
+ "name": "bangla Food 31",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/wMRkLX7/images-11.jpg",
+ "_id": 32,
+ "name": "bangla Food 32",
+ "price": 90,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/ZJJ9Kvd/images-12.jpg",
+ "_id": 33,
+ "name": "bangla Food 33",
+ "price": 95,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/SJxcSNf/images-13.jpg",
+ "_id": 34,
+ "name": "bangla Food 34",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/Z6cwfVW/images-14.jpg",
+ "_id": 35,
+ "name": "bangla Food 35",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/2KnVm3Q/images-15.jpg",
+ "_id": 36,
+ "name": "bangla Food 36",
+ "price": 70,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/JrS01HW/images-16.jpg",
+ "_id": 37,
+ "name": "bangla Food 37",
+ "price": 45,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/g4VWK9Q/images-17.jpg",
+ "_id": 38,
+ "name" : "bangla Food 38",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/MSVFRS1/images-18.jpg",
+ "_id": 39,
+ "name": "bangla Food 39",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/p4PK3Qn/images-19.jpg",
+ "_id": 40,
+ "name": "bangla Food 40",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/Ky7tvhQ/images-20.jpg",
+ "_id": 41,
+ "name": "bangla Food 41",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/bmS5w4R/images-21.jpg",
+ "_id": 42,
+ "name": "bangla Food 42",
+ "price": 90,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/DG6Xf6S/images-22.jpg",
+ "_id": 43,
+ "name": "bangla Food 43",
+ "price": 95,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/PwfjGWh/images-23.jpg",
+ "_id": 44,
+ "name": "bangla Food 44",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/Ttrw8m5/images-24.jpg",
+ "_id": 45,
+ "name": "bangla Food 45",
+ "price": 99,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/gMhbD9V/images-25.jpg",
+ "_id": 46,
+ "name": "bangla Food 46",
+ "price": 70,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/VQjRsT5/images-26.jpg",
+ "_id": 47,
+ "name" : "bangla Food 47",
+ "price": 45,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/1nkSLwP/images-27.jpg",
+ "_id": 48,
+ "name": "bangla Food 48",
+ "price": 75,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/nRbjq6T/images.jpg",
+ "_id":49,
+ "name": "bangla Food 49",
+ "price": 80,
+ "details": "this is hot food and good food"
+},
+{
+ "image":"https://i.ibb.co/rfHdP8J/Benner.jpg",
+ "_id":50,
+ "name": "bangla Food 50",
+ "price": 75,
+ "details": "this is hot food and good food"
+}
+
+
+
+
+]

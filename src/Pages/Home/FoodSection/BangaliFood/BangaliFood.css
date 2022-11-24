@@ -1,5 +1,56 @@
 .main-bangali-section{
  width: 100%;
- /* height: 100vh; */
+ 
  margin-top: 100px;
+}
+
+.main-bangali-section    .bangaliFood-responsive{
+ margin-top: 100px;
+ display: grid; 
+ grid-template-columns: repeat(4, 1fr);
+ justify-content: center;
+
+}
+
+
+
+
+@media (min-width: 992px) and (max-width: 1440px) {
+ .main-bangali-section    .bangaliFood-responsive{
+  margin-top: 100px;
+  display: grid; 
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+ 
+ }
+
+
+}
+
+
+
+@media (min-width: 660px) and (max-width: 991px) {
+ .main-bangali-section    .bangaliFood-responsive{
+  margin-top: 100px;
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+ 
+ }
+
+
+}
+
+
+@media (min-width: 1px) and (max-width: 659px)  {
+ .main-bangali-section .bangaliFood-responsive{
+  margin-top: 100px;
+  display: grid; 
+  grid-template-columns: repeat(1, 1fr);
+  justify-content: center;
+  margin-left: 80px;
+ 
+ }
+
+
 }
